@@ -2,6 +2,8 @@
 # Using Ollama and Anything LLM for Language Models
 
 ## Command Line Interface (CLI) Setup
+###URL Example :
+https://70f7-34-168-157-195.ngrok-free.app
 
 1. **Open Command Prompt:**
    - Press `Win + R`, type `cmd`, and hit `Enter`.
@@ -27,7 +29,7 @@
 
 2. **Set LLM Preference URL:**
    - Open Anything LLM.
-   - Set the LLM preference URL to the generated URL from Ollama.
+   - Set the LLM preference URL to the generated URL from collab.
 
 3. **Choose Model and Set Token Length:**
    - Select the desired model from the dropdown menu.
