@@ -2,9 +2,9 @@
 # Using Ollama and Anything LLM for Language Models
 
 ## Command Line Interface (CLI) Setup
-###URL Example :
-https://70f7-34-168-157-195.ngrok-free.app
-
+URL Example :
+https://4gt6-34-45-157-195.ngrok-free.app
+REMEMBER TO REMOVE "/" AT THE END OF URL
 1. **Open Command Prompt:**
    - Press `Win + R`, type `cmd`, and hit `Enter`.
 
@@ -23,6 +23,7 @@ https://70f7-34-168-157-195.ngrok-free.app
    - You can use any LLM from the Ollama library. Visit [Ollama Library](https://ollama.com/library) for more options.
 
 ## Graphical User Interface (GUI) Setup
+![image](https://github.com/AkashElangovan/Ollama-in-collab/assets/67691796/03c4a3ac-1608-4b24-887b-38ecd99a777c)
 
 1. **Download Anything LLM:**
    - Go to [useanything.com](https://useanything.com/) and download the software.
